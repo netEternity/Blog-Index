@@ -6,6 +6,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "ETOJ",
         url: "https://etoj.xyz/",
+        description: "ETOJ是一个基于Hydro的OJ系统",
         icon: "",
         color: "#0171CD",
       },
@@ -13,6 +14,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "ETOJ Docs",
         description: "ETOJ文档",
         url: "https://docs.etoj.xyz/",
+        icon: "",
+      },
+      {
+        title: "ETOJ News",
+        description: "ETOJ的新闻发布处",
+        url: "https://news.etoj.xyz/",
         icon: "",
       },
     ],
@@ -86,9 +93,9 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
-    keywords: "Blog, Index, Index Page",
-    description: "This is my personal blog index page.",
+    title: "ET-网站发布页",
+    keywords: "OJ, hydro, Index Page",
+    description: "This is my OJ website index page.",
   },
 };
 
