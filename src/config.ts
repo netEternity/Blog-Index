@@ -37,11 +37,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "ETOJ",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://etoj.xyz",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -49,7 +49,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/Eternity-Sky",
   /**
    * 背景图片地址
    */
@@ -57,8 +57,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "",
+  ICP_URL: "",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
