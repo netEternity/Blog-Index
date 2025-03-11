@@ -14,13 +14,19 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "ETOJ Docs",
         description: "ETOJ文档",
         url: "https://docs.etoj.xyz/",
-        icon: "",
+        icon: "https://docs.etoj.xyz/_astro/houston.D7FQVra3_1BcA6m.webp",
       },
       {
         title: "ETOJ News",
         description: "ETOJ的新闻发布处",
         url: "https://news.etoj.xyz/",
-        icon: "",
+        icon: "https://news.etoj.xyz/_next/image?url=%2Fimages%2Frandom-image.jpeg&w=1920&q=75",
+      },
+      {
+        title: "ETOJ pub",
+        description: "ET系列网站导航（本网站）",
+        url: "https://i.etoj.xyz/",
+        icon: "https://api.dujin.org/bing/1920.php",
       },
     ],
   },
@@ -93,7 +99,7 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "ET-网站发布页",
+    title: "ET系列网站导航",
     keywords: "OJ, hydro, Index Page",
     description: "This is my OJ website index page.",
   },
